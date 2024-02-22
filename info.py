@@ -75,7 +75,7 @@ TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
 
 # Command
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
-tg://openmessage?user_id=1426588906&message_id=13866
+#tg://openmessage?user_id=1426588906&message_id=13866
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Vishnu:Vishnu@cluster0.r6vzutf.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Vishnu")
